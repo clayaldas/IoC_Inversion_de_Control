@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkeaUcU+6sY=",
+  "success": true,
+  "projectFilePath": "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claya\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\claya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

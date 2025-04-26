@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DIP_DI_Con_Contenedor_IoC_Manual/1.0.0": {
+        "runtime": {
+          "DIP_DI_Con_Contenedor_IoC_Manual.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIP_DI_Con_Contenedor_IoC_Manual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

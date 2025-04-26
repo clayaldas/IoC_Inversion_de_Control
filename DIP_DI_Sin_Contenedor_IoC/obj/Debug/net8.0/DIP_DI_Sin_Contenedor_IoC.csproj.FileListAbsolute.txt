@@ -1,0 +1,14 @@
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\bin\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.exe
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\bin\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.deps.json
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\bin\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.runtimeconfig.json
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\bin\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.dll
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\bin\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.pdb
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.AssemblyInfoInputs.cache
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.AssemblyInfo.cs
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.csproj.CoreCompileInputs.cache
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.dll
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\refint\DIP_DI_Sin_Contenedor_IoC.dll
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.pdb
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\DIP_DI_Sin_Contenedor_IoC.genruntimeconfig.cache
+D:\Ejercicios_Clases\Patrones de Software\IoC_Inversion_de_Control\DIP_DI_Sin_Contenedor_IoC\obj\Debug\net8.0\ref\DIP_DI_Sin_Contenedor_IoC.dll
