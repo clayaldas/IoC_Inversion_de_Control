@@ -13,3 +13,18 @@ D:\Ejercicios_Clases\Patrones de Software\Inversion de Control IoC\Estudiantes\I
 D:\Ejercicios_Clases\Patrones de Software\Inversion de Control IoC\Estudiantes\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).pdb
 D:\Ejercicios_Clases\Patrones de Software\Inversion de Control IoC\Estudiantes\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).genruntimeconfig.cache
 D:\Ejercicios_Clases\Patrones de Software\Inversion de Control IoC\Estudiantes\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\ref\Dependency Inversion Principle (BAD).dll
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\bin\Debug\net8.0\Dependency Inversion Principle (BAD).exe
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\bin\Debug\net8.0\Dependency Inversion Principle (BAD).deps.json
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\bin\Debug\net8.0\Dependency Inversion Principle (BAD).runtimeconfig.json
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\bin\Debug\net8.0\Dependency Inversion Principle (BAD).dll
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\bin\Debug\net8.0\Dependency Inversion Principle (BAD).pdb
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).GeneratedMSBuildEditorConfig.editorconfig
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).AssemblyInfoInputs.cache
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).AssemblyInfo.cs
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).csproj.CoreCompileInputs.cache
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).sourcelink.json
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).dll
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\refint\Dependency Inversion Principle (BAD).dll
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).pdb
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\Dependency Inversion Principle (BAD).genruntimeconfig.cache
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (BAD)\obj\Debug\net8.0\ref\Dependency Inversion Principle (BAD).dll

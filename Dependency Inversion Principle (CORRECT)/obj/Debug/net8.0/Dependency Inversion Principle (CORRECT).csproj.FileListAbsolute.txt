@@ -1,0 +1,15 @@
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).exe
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).deps.json
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).runtimeconfig.json
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).dll
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).pdb
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).GeneratedMSBuildEditorConfig.editorconfig
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).AssemblyInfoInputs.cache
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).AssemblyInfo.cs
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).csproj.CoreCompileInputs.cache
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).sourcelink.json
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).dll
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\refint\Dependency Inversion Principle (CORRECT).dll
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).pdb
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).genruntimeconfig.cache
+D:\IoC_Inversion_de_Control\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\ref\Dependency Inversion Principle (CORRECT).dll

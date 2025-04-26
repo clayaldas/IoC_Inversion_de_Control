@@ -12,10 +12,21 @@ public class EmailNotifier
   }
 }
 
+public class SmsNotifier
+{
+  public void Send(string message)
+  {
+    // Lógica para enviar SMS
+    Console.WriteLine($"Enviando SMS: {message}");
+  }
+}
+
 // Clase de alto nivel
 public class NotificationService
 {
   private EmailNotifier emailNotifier;
+  //private SmsNotifier smsNotifier; ABIERTO (PARA LA EXTENSION)/CERRADO PARA LOS CAMBIOS EN LAS EXISTENTES
+
 
   public NotificationService()
   {

@@ -11,14 +11,34 @@ namespace DIP_DI_Con_Contenedor_IoC_Microsoft
       Console.WriteLine();
 
       // IoC Container configurado con DI que viene en NET Core.
-      var serviceProvider = new ServiceCollection()
+      var containerIoC = new ServiceCollection()
           .AddScoped<INotifier, EmailNotifier>() // DIP: INotifier → EmailNotifier.
           .AddScoped<NotificationService>() //  Registrar el servicio de alto nivel.
           .BuildServiceProvider();
 
       //  El contenedor IoC resuelve el servicio inyectado y crea la instancia automáticamente.
-      var service = serviceProvider.GetService<NotificationService>();
+      var service = containerIoC.GetService<NotificationService>();
       service.Alert("¡Implementación de DIP y DI, utilizando un contenedor IoC automático!");
+
+      // Utiizar la clase: EmailNotifier
+      containerIoC = new ServiceCollection()
+        .AddScoped<INotifier, SmsNotifier>()
+        .AddScoped<NotificationService>()
+        .BuildServiceProvider();
+
+      service = containerIoC.GetService<NotificationService>();
+      service.Alert("¡Implementación de DIP y DI, utilizando un contenedor IoC automático!");
+
+
+      // Utiizar la clase: WhatsAppNotifier
+      containerIoC = new ServiceCollection()
+        .AddScoped<INotifier, WhatsAppNotifier>()
+        .AddScoped<NotificationService>()
+        .BuildServiceProvider();
+
+      service = containerIoC.GetService<NotificationService>();
+      service.Alert("¡Implementación de DIP y DI, utilizando un contenedor IoC automático!");
+
 
       //  ------------------------------------------
       //  ¿Qué se cumple en el proyecto?

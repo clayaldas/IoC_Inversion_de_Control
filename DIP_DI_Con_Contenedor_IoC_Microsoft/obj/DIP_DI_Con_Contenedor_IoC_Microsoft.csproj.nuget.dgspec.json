@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj": {}
+    "D:\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj": {}
   },
   "projects": {
-    "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj": {
+    "D:\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj",
+        "projectUniqueName": "D:\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj",
         "projectName": "DIP_DI_Con_Contenedor_IoC_Microsoft",
-        "projectPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj",
+        "projectPath": "D:\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\DIP_DI_Con_Contenedor_IoC_Microsoft.csproj",
         "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\obj\\",
+        "outputPath": "D:\\IoC_Inversion_de_Control\\DIP_DI_Con_Contenedor_IoC_Microsoft\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

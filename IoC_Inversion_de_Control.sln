@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_DI_Con_Contenedor_IoC_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Inversion Principle (BAD)", "Dependency Inversion Principle (BAD)\Dependency Inversion Principle (BAD).csproj", "{3D6A0E39-6CC9-4E6D-80EB-2DD9477F6809}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Inversion Principle (CORRECT)", "Dependency Inversion Principle (CORRECT)\Dependency Inversion Principle (CORRECT).csproj", "{7EBEF2A1-2B48-4D0D-AC18-52ADCED04238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{3D6A0E39-6CC9-4E6D-80EB-2DD9477F6809}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D6A0E39-6CC9-4E6D-80EB-2DD9477F6809}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D6A0E39-6CC9-4E6D-80EB-2DD9477F6809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBEF2A1-2B48-4D0D-AC18-52ADCED04238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBEF2A1-2B48-4D0D-AC18-52ADCED04238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBEF2A1-2B48-4D0D-AC18-52ADCED04238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBEF2A1-2B48-4D0D-AC18-52ADCED04238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

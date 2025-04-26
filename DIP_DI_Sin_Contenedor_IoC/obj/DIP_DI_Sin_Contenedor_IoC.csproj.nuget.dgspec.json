@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\DIP_DI_Sin_Contenedor_IoC.csproj": {}
+    "D:\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\DIP_DI_Sin_Contenedor_IoC.csproj": {}
   },
   "projects": {
-    "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\DIP_DI_Sin_Contenedor_IoC.csproj": {
+    "D:\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\DIP_DI_Sin_Contenedor_IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\DIP_DI_Sin_Contenedor_IoC.csproj",
+        "projectUniqueName": "D:\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\DIP_DI_Sin_Contenedor_IoC.csproj",
         "projectName": "DIP_DI_Sin_Contenedor_IoC",
-        "projectPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\DIP_DI_Sin_Contenedor_IoC.csproj",
+        "projectPath": "D:\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\DIP_DI_Sin_Contenedor_IoC.csproj",
         "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Inversion de Control IoC\\Estudiantes\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\obj\\",
+        "outputPath": "D:\\IoC_Inversion_de_Control\\DIP_DI_Sin_Contenedor_IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
